@@ -1,0 +1,6 @@
+{
+  "name": "Location Based Garbage Management System for Smart City",
+  "description": "Smart municipal waste management and citizen grievance redressal platform with GPS incident reporting, interactive maps, automated worker dispatch, and real-time status tracking.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
